@@ -1,0 +1,486 @@
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System Manager.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Resources.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System Manager.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\System Manager.exe
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\System Manager.pdb
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\System Manager.xml
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System Manager.exe
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System Manager.xml
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System Manager.pdb
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Login.resources
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\System Manager.exe.config
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System Manager.vbproj.CopyComplete
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.MMenu.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Add_User.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Add_Item.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System Manager.vbproj.ResolveComReference.cache
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Stock_Control.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Info.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Print_Receipt.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\RdlCompile.cache
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\RdlCompile.compiled
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\EnvDTE.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\stdole.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Add_Location.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Add_transfer.resources
+C:\Users\User\source\repos\System Manager\System Manager\obj\Debug\System_Manager.report_manager.resources
+D:\system manager\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\system manager\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\system manager\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\system manager\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\system manager\System Manager\System Manager\bin\Debug\System Manager.exe.config
+D:\system manager\System Manager\System Manager\bin\Debug\System Manager.exe
+D:\system manager\System Manager\System Manager\bin\Debug\System Manager.pdb
+D:\system manager\System Manager\System Manager\bin\Debug\System Manager.xml
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\system manager\System Manager\System Manager\bin\Debug\EnvDTE.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\system manager\System Manager\System Manager\bin\Debug\stdole.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\system manager\System Manager\System Manager\bin\Debug\Microsoft.MSXML.dll
+D:\system manager\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.vbprojAssemblyReference.cache
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.vbproj.ResolveComReference.cache
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Add_Item.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Add_User.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Add_Location.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Add_transfer.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Info.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Login.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.MMenu.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Resources.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Print_Receipt.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.report_manager.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Stock_Control.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.vbproj.GenerateResource.cache
+D:\system manager\System Manager\System Manager\obj\Debug\RdlCompile.cache
+D:\system manager\System Manager\System Manager\obj\Debug\RdlCompile.compiled
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.vbproj.CoreCompileInputs.cache
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.vbproj.CopyComplete
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.exe
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.xml
+D:\system manager\System Manager\System Manager\obj\Debug\System Manager.pdb
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Stor_info.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Operation.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.store_summery.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.stock_by_receipt.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.sales_summery.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.sales_by_receipt.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.sales_by_detail.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.inventory.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Merchandise.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.expired_items.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Promotions.resources
+D:\system manager\System Manager\System Manager\obj\Debug\System_Manager.Cancel_Promotion.resources
+D:\system manager\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ExcelDataReader.dll
+D:\system manager\System Manager\System Manager\bin\Debug\ExcelDataReader.pdb
+D:\system manager\System Manager\System Manager\bin\Debug\ExcelDataReader.xml
+D:\system manager\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\system manager\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.xml
+D:\POS last update\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\System Manager.exe.config
+D:\POS last update\System Manager\System Manager\bin\Debug\System Manager.exe
+D:\POS last update\System Manager\System Manager\bin\Debug\System Manager.pdb
+D:\POS last update\System Manager\System Manager\bin\Debug\System Manager.xml
+D:\POS last update\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ExcelDataReader.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\EnvDTE.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\stdole.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\Microsoft.MSXML.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ExcelDataReader.pdb
+D:\POS last update\System Manager\System Manager\bin\Debug\ExcelDataReader.xml
+D:\POS last update\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\POS last update\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.xml
+D:\POS last update\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.vbprojAssemblyReference.cache
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.vbproj.ResolveComReference.cache
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Add_Item.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Add_User.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Add_Location.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Add_transfer.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Cancel_Promotion.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.expired_items.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Info.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.inventory.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Login.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Merchandise.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.MMenu.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Resources.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Operation.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Print_Receipt.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Promotions.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.report_manager.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.sales_by_detail.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.sales_by_receipt.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.sales_summery.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Stock_Control.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.stock_by_receipt.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.store_summery.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System_Manager.Stor_info.resources
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.vbproj.GenerateResource.cache
+D:\POS last update\System Manager\System Manager\obj\Debug\RdlCompile.cache
+D:\POS last update\System Manager\System Manager\obj\Debug\RdlCompile.compiled
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.vbproj.CoreCompileInputs.cache
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.vbproj.CopyComplete
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.exe
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.xml
+D:\POS last update\System Manager\System Manager\obj\Debug\System Manager.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\System Manager.exe.config
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\System Manager.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\System Manager.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\System Manager.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ExcelDataReader.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\EnvDTE.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\stdole.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ExcelDataReader.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ExcelDataReader.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.vbproj.AssemblyReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.vbproj.ResolveComReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Add_Item.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Add_User.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Add_Location.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Add_transfer.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Cancel_Promotion.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.expired_items.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Info.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.inventory.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Login.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Merchandise.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.MMenu.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Resources.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Operation.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Print_Receipt.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Promotions.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.report_manager.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.sales_by_detail.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.sales_by_receipt.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.sales_summery.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Stock_Control.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.stock_by_receipt.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.store_summery.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System_Manager.Stor_info.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.vbproj.GenerateResource.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.vbproj.CopyComplete
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\System Manager\System Manager\obj\Debug\System Manager.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\System Manager.exe.config
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\System Manager.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\System Manager.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\System Manager.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ExcelDataReader.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\QRCoder.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\EnvDTE.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\stdole.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ExcelDataReader.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ExcelDataReader.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.vbproj.AssemblyReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.vbproj.ResolveComReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Add_Item.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Add_User.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Add_Location.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Add_transfer.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Cancel_Promotion.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.expired_items.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Info.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.inventory.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Login.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Merchandise.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.MMenu.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Resources.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Operation.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Print_Receipt.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Promotions.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.report_manager.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.sales_by_detail.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.sales_by_receipt.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.sales_summery.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Stock_Control.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.stock_by_receipt.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.store_summery.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System_Manager.Stor_info.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.vbproj.GenerateResource.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.vbproj.CopyComplete
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\obj\Debug\System Manager.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zxing.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\System Manager-Zatca\System Manager\bin\Debug\zxing.xml

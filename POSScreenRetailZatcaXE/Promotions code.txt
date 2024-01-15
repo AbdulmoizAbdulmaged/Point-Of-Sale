@@ -1,0 +1,56 @@
+ '--------------------------------apply promotion one price
+                    Total_Discount = 0
+                    Dim old_price1 As Double = 0
+
+                    Dim cmd_PROMO_ONE As New OracleCommand
+                    cmd_PROMO_ONE.Connection = conn
+                    cmd_PROMO_ONE.CommandText = "select BARCODE,PRICE from  promo_oneprice where Barcode = '" + item_barcode + "' and to_date(sysdate,'dd-MON-yy') <=  to_date(end_date,'dd-MON-yy') and to_date(sysdate,'dd-MON-yy') >= to_date(start_date,'dd-MON-yy')"
+                    conn.Open()
+                    Dim rd_oneprice As OracleDataReader = cmd_PROMO_ONE.ExecuteReader
+                    While rd_oneprice.Read
+                        If rd_oneprice.GetValue(0).ToString <> "" Then
+                            old_price1 = rd_oneprice.GetValue(1).ToString
+                            discount = Convert.ToDecimal(item_price) - Convert.ToDecimal(old_price1)
+                            Total_Discount = Total_Discount + discount
+                            item_name = item_name & " - ON SALE (" & discount.ToString & ")"
+
+
+
+                        End If
+                    End While
+                    rd_oneprice.Close()
+                    conn.Close()
+
+                    '--------------------------------apply promotion percentage
+                    Try
+
+
+                        Dim cmd_PROMO_PER As New OracleCommand
+                        cmd_PROMO_PER.Connection = conn
+                        cmd_PROMO_PER.CommandText = "select new_price from promo_per where Barcode = '" & item_barcode & "' and to_date(sysdate,'DD-MM-YY') <= to_date(end_date,'DD-MM-YY')"
+                        'Dim percentage As Integer = 0
+
+                        'Dim disc As Integer = 0
+                        conn.Open()
+                        Dim rd_per As OracleDataReader = cmd_PROMO_PER.ExecuteReader
+                        While rd_per.Read
+
+                            'If rd_per.GetValue(0).ToString <> "" Then
+                            'percentage = Double.Parse(rd_per.GetValue(1))
+
+                            'discount = (item_price * percentage / 100)
+
+                            'item_name = item_name & " - " & "% Disc. (" & percentage & ")"
+
+                            'Total_Discount = Total_Discount + discount
+
+                            'End If
+
+                            If rd_per.GetValue(0) < item_price Then
+                                item_price = rd_per.GetValue(0)
+
+                                Total_Discount = item_price - rd_per.GetValue(0)
+                            End If
+                        End While
+                        rd_per.Close()
+                        conn.Close()

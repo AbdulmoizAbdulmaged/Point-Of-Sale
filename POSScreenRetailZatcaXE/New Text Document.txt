@@ -1,0 +1,59 @@
+  For i = 0 To ListView1.Items.Count - 1
+                Try
+
+               
+
+                    If ListView1.Items(i).SubItems(2).Text = "0" Then
+
+                        Dim conn As New OracleConnection
+                        conn.ConnectionString = "Data Source=" + ip + ":1521/orcl;User Id=" + u_id + ";password=" + pw + ";"
+
+                        Dim cmd1 As New OracleCommand
+                        Dim id As Double
+                        'item_barcode = TextBox1.Text
+
+                        Dim cmd_id As New OracleCommand
+                        ' Dim cmd1 As New OracleCommand
+                        ' Dim id As Double = get_id()
+
+                        cmd_id.CommandText = "select id_ev from MA_ITM_PRN_PRC_ITM where id_itm='" + ListView1.Items(i).SubItems(0).Text + "'"
+                        cmd_id.Connection = conn
+
+                        conn.Open()
+
+                        Dim rd_id As OracleDataReader = cmd_id.ExecuteReader
+                        If rd_id.Read Then
+
+                            id = rd_id.GetValue(0)
+
+                        End If
+                        MsgBox(id.ToString)
+                        rd_id.Close()
+                        cmd1.Connection = conn
+                        cmd1.CommandText = "select mo_chn_prn_un_prc from TR_CHN_PRN_PRC where id_ev = :param1"
+                        cmd1.Parameters.Add(":param1", OracleDbType.Double).Value = id
+
+
+                        'conn.ConnectionString = "Data Source=" + ip + ":1521/orcl;User Id=" + u_id + ";password=" + pw + ";"
+
+
+
+
+                        Dim rd1 As OracleDataReader = cmd1.ExecuteReader
+                        If rd1.Read Then
+                            item_price = rd1.GetValue(0).ToString
+                            item_price1 = item_price
+
+                            ListView1.Items(i).SubItems(2).Text = item_price
+
+                        End If
+                        rd1.Close()
+                        conn.Close()
+
+
+                    End If
+                Catch ex As Exception
+                    MsgBox(ex.Message)
+
+                End Try
+            Next

@@ -1,0 +1,22 @@
+CREATE TABLE SCANNED_ITEMS
+  (
+    TRANSFER_NUMBER  VARCHAR2(20 BYTE),
+    BOX_ID         VARCHAR2(20 BYTE),
+    ITM_BARCODE     VARCHAR2(20 BYTE),
+    ITM_NAME       VARCHAR2(100 BYTE),
+    QTY           VARCHAR2(20 BYTE),
+    R_I       Varchar2(50)
+  )
+
+''''''''''''''''''''
+create table stock_control
+
+(
+Stock_Number varchar2(20),
+Stock_type varchar2(50)
+)
+
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''
+select transfer_number,itm_barcode,count(qty) from scanned_items where transfer_number = '1000' group by transfer_number,itm_barcode,qty

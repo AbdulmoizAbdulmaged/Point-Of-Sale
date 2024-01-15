@@ -1,0 +1,4 @@
+  For i As Integer = 0 To seconds * 100
+        System.Threading.Thread.Sleep(10)
+        Application.DoEvents()
+    Next

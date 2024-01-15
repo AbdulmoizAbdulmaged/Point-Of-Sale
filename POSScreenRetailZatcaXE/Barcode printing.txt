@@ -1,0 +1,22 @@
+  'Imports IDAutomation.Windows.Forms.LinearBarCode
+
+'Imports GenCode128
+  Dim NewBarcode As IDAutomation.Windows.Forms.LinearBarCode.Barcode = New Barcode()
+                    NewBarcode.DataToEncode = rr.ToString() 'Input of textbox to generate barcode 
+                    NewBarcode.SymbologyID = Symbologies.Code39
+                    NewBarcode.Code128Set = Code128CharacterSets.A
+                    NewBarcode.RotationAngle = RotationAngles.Zero_Degrees
+                    NewBarcode.RefreshImage()
+                    NewBarcode.Resolution = Resolutions.Screen
+                    NewBarcode.ResolutionCustomDPI = 96
+                    NewBarcode.RefreshImage()
+                    NewBarcode.SaveImageAs("C:\POS\Receipts\" & rr1 & "SavedBarcode.Jpeg", System.Drawing.Imaging.ImageFormat.Jpeg)
+                    NewBarcode.Resolution = Resolutions.Printer
+                    PictureBox12.Image = Nothing
+                    PictureBox12.Image = Image.FromFile("C:\POS\Receipts\" & rr1 & "SavedBarcode.Jpeg")
+
+                    'Barcode using the GenCode128
+                    Dim myimg As Image = Code128Rendering.MakeBarcodeImage(rr.ToString(), Integer.Parse("5"), False)
+                    ' PictureBox1.Image = myimg
+                    'pbImage2.Image = myimg
+                    'Barcode using the GenCode128

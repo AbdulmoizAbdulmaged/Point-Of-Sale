@@ -1,0 +1,249 @@
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\bin\Debug\POS system.exe
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\bin\Debug\POS system.pdb
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\bin\Debug\POS system.xml
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\POS_system.Resources.resources
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\POS system.exe
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\POS system.xml
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\POS system.pdb
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\POS_system.dbinfo.resources
+C:\Users\GlobalIT\Documents\Visual Studio 2008\Projects\POS system\POS system\obj\Debug\POS_system.create_pos.resources
+G:\POS system\POS system\obj\Debug\POS system.exe
+G:\POS system\POS system\obj\Debug\POS system.xml
+G:\POS system\POS system\obj\Debug\POS system.pdb
+G:\POS system\POS system\bin\Debug\POS system.exe
+G:\POS system\POS system\bin\Debug\POS system.pdb
+G:\POS system\POS system\bin\Debug\POS system.xml
+G:\POS system\POS system\obj\Debug\ResolveAssemblyReference.cache
+G:\POS system\POS system\obj\Debug\POS_system.create_pos.resources
+G:\POS system\POS system\obj\Debug\POS_system.dbinfo.resources
+G:\POS system\POS system\obj\Debug\POS_system.Resources.resources
+G:\POS system\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+I:\POS system\POS system\obj\Debug\POS system.exe
+I:\POS system\POS system\obj\Debug\POS system.xml
+I:\POS system\POS system\obj\Debug\POS system.pdb
+I:\POS system\POS system\bin\Debug\POS system.exe
+I:\POS system\POS system\bin\Debug\POS system.pdb
+I:\POS system\POS system\bin\Debug\POS system.xml
+I:\POS system\POS system\obj\Debug\ResolveAssemblyReference.cache
+I:\POS system\POS system\obj\Debug\POS_system.create_pos.resources
+I:\POS system\POS system\obj\Debug\POS_system.dbinfo.resources
+I:\POS system\POS system\obj\Debug\POS_system.Resources.resources
+I:\POS system\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+C:\temp\POS\POS system\POS system\obj\Debug\POS system.exe
+C:\temp\POS\POS system\POS system\obj\Debug\POS system.xml
+C:\temp\POS\POS system\POS system\obj\Debug\POS system.pdb
+C:\temp\POS\POS system\POS system\bin\Debug\POS system.exe
+C:\temp\POS\POS system\POS system\bin\Debug\POS system.pdb
+C:\temp\POS\POS system\POS system\bin\Debug\POS system.xml
+C:\temp\POS\POS system\POS system\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\POS\POS system\POS system\obj\Debug\POS_system.create_pos.resources
+C:\temp\POS\POS system\POS system\obj\Debug\POS_system.dbinfo.resources
+C:\temp\POS\POS system\POS system\obj\Debug\POS_system.Resources.resources
+C:\temp\POS\POS system\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+H:\POS system\POS system\obj\Debug\POS system.exe
+H:\POS system\POS system\obj\Debug\POS system.xml
+H:\POS system\POS system\obj\Debug\POS system.pdb
+H:\POS system\POS system\bin\Debug\POS system.exe
+H:\POS system\POS system\bin\Debug\POS system.pdb
+H:\POS system\POS system\bin\Debug\POS system.xml
+H:\POS system\POS system\obj\Debug\ResolveAssemblyReference.cache
+H:\POS system\POS system\obj\Debug\POS_system.create_pos.resources
+H:\POS system\POS system\obj\Debug\POS_system.dbinfo.resources
+H:\POS system\POS system\obj\Debug\POS_system.Resources.resources
+H:\POS system\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+H:\POS system\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+H:\POS system\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+H:\POS system\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+I:\POS\POS system\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+I:\POS\POS system\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+I:\POS\POS system\POS system\obj\Debug\POS system.exe
+I:\POS\POS system\POS system\obj\Debug\POS system.xml
+I:\POS\POS system\POS system\obj\Debug\POS system.pdb
+I:\POS\POS system\POS system\bin\Debug\POS system.exe
+I:\POS\POS system\POS system\bin\Debug\POS system.pdb
+I:\POS\POS system\POS system\bin\Debug\POS system.xml
+I:\POS\POS system\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+I:\POS\POS system\POS system\obj\Debug\ResolveAssemblyReference.cache
+I:\POS\POS system\POS system\obj\Debug\POS_system.create_pos.resources
+I:\POS\POS system\POS system\obj\Debug\POS_system.dbinfo.resources
+I:\POS\POS system\POS system\obj\Debug\POS_system.Resources.resources
+I:\POS\POS system\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+G:\POS\POS system\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+G:\POS\POS system\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+G:\POS\POS system\POS system\obj\Debug\POS system.exe
+G:\POS\POS system\POS system\obj\Debug\POS system.xml
+G:\POS\POS system\POS system\obj\Debug\POS system.pdb
+G:\POS Source Codes\POS system\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS system.exe
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS system.xml
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS system.pdb
+G:\POS Source Codes\POS system\POS system\bin\Debug\POS system.exe
+G:\POS Source Codes\POS system\POS system\bin\Debug\POS system.pdb
+G:\POS Source Codes\POS system\POS system\bin\Debug\POS system.xml
+G:\POS Source Codes\POS system\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+G:\POS Source Codes\POS system\POS system\obj\Debug\ResolveAssemblyReference.cache
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS_system.create_pos.resources
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS_system.dbinfo.resources
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS_system.Resources.resources
+G:\POS Source Codes\POS system\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.exe
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.xml
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.pdb
+G:\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.exe
+G:\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.pdb
+G:\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.xml
+G:\POS Source Codes\POS system - PBW\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\ResolveAssemblyReference.cache
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.create_pos.resources
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.dbinfo.resources
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.Resources.resources
+G:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.exe
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.xml
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.pdb
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.exe
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.pdb
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.xml
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\ResolveAssemblyReference.cache
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.create_pos.resources
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.dbinfo.resources
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.Resources.resources
+C:\ABDU\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.exe
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.xml
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.pdb
+E:\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.exe
+E:\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.pdb
+E:\POS Source Codes\POS system - PBW\POS system\bin\Debug\POS system.xml
+E:\POS Source Codes\POS system - PBW\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\ResolveAssemblyReference.cache
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.create_pos.resources
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.dbinfo.resources
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS_system.Resources.resources
+E:\POS Source Codes\POS system - PBW\POS system\obj\Debug\POS system.vbproj.GenerateResource.Cache
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbprojAssemblyReference.cache
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS_system.create_pos.resources
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS_system.dbinfo.resources
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS_system.Resources.resources
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.GenerateResource.cache
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.CoreCompileInputs.cache
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.exe
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.xml
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.pdb
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe.config
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\bin\Debug\POS system.pdb
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\bin\Debug\POS system.xml
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\system manager\POS Source Codes\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.CopyComplete
+D:\system manager\POS\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe.config
+D:\system manager\POS\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe
+D:\system manager\POS\POS system - PBW - Copy\POS system\bin\Debug\POS system.pdb
+D:\system manager\POS\POS system - PBW - Copy\POS system\bin\Debug\POS system.xml
+D:\system manager\POS\POS system - PBW - Copy\POS system\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\system manager\POS\POS system - PBW - Copy\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbprojAssemblyReference.cache
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS_system.create_pos.resources
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS_system.dbinfo.resources
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS_system.Resources.resources
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.GenerateResource.cache
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.CoreCompileInputs.cache
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.CopyComplete
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.exe
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.xml
+D:\system manager\POS\POS system - PBW - Copy\POS system\obj\Debug\POS system.pdb
+D:\POS last update\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe.config
+D:\POS last update\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe
+D:\POS last update\POS system - PBW - Copy\POS system\bin\Debug\POS system.pdb
+D:\POS last update\POS system - PBW - Copy\POS system\bin\Debug\POS system.xml
+D:\POS last update\POS system - PBW - Copy\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.AssemblyReference.cache
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS_system.create_pos.resources
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS_system.dbinfo.resources
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS_system.Resources.resources
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.GenerateResource.cache
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.CoreCompileInputs.cache
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS system.exe
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS system.xml
+D:\POS last update\POS system - PBW - Copy\POS system\obj\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe.config
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\bin\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\bin\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\bin\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.AssemblyReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS_system.create_pos.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS_system.dbinfo.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS_system.Resources.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.GenerateResource.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS system.vbproj.CoreCompileInputs.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system - PBW - Copy\POS system\obj\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\bin\Debug\POS system.exe.config
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\bin\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\bin\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\bin\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS system.vbproj.AssemblyReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS_system.create_pos.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS_system.dbinfo.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS_system.Resources.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS system.vbproj.GenerateResource.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS system.vbproj.CoreCompileInputs.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca\POS system\obj\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\bin\Debug\POS system.exe.config
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\bin\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\bin\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\bin\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS system.vbproj.AssemblyReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS_system.create_pos.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS_system.dbinfo.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS_system.Resources.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS system.vbproj.GenerateResource.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS system.vbproj.CoreCompileInputs.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - test\POS system\obj\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\bin\Debug\POS system.exe.config
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\bin\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\bin\Debug\POS system.pdb
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\bin\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS system.vbproj.AssemblyReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS system.vbproj.ResolveComReference.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS_system.create_pos.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS_system.dbinfo.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS_system.Resources.resources
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS system.vbproj.GenerateResource.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS system.vbproj.CoreCompileInputs.cache
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS system.exe
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS system.xml
+C:\Users\Abdu\OneDrive\Desktop\POS Cloud Project\Source Code\POS system-Zatca - DB - XE\POS system\obj\Debug\POS system.pdb

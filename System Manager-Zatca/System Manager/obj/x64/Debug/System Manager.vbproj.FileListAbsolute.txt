@@ -1,0 +1,101 @@
+D:\system manager\System Manager\System Manager\bin\x64\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\System Manager.exe.config
+D:\system manager\System Manager\System Manager\bin\x64\Debug\System Manager.exe
+D:\system manager\System Manager\System Manager\bin\x64\Debug\System Manager.pdb
+D:\system manager\System Manager\System Manager\bin\x64\Debug\System Manager.xml
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ExcelDataReader.DataSet.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ExcelDataReader.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.ReportViewer.Design.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\EnvDTE.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\stdole.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\Microsoft.MSXML.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ExcelDataReader.pdb
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ExcelDataReader.xml
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ExcelDataReader.DataSet.pdb
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ExcelDataReader.DataSet.xml
+D:\system manager\System Manager\System Manager\bin\x64\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\bin\x64\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.vbprojAssemblyReference.cache
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.vbproj.ResolveComReference.cache
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Add_Item.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Add_User.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Add_Location.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Add_transfer.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Cancel_Promotion.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.expired_items.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Info.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.inventory.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Login.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Merchandise.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.MMenu.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Resources.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Operation.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Print_Receipt.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Promotions.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.report_manager.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.sales_by_detail.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.sales_by_receipt.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.sales_summery.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Stock_Control.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.stock_by_receipt.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.store_summery.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System_Manager.Stor_info.resources
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.vbproj.GenerateResource.cache
+D:\system manager\System Manager\System Manager\obj\x64\Debug\RdlCompile.cache
+D:\system manager\System Manager\System Manager\obj\x64\Debug\RdlCompile.compiled
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.vbproj.CoreCompileInputs.cache
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.vbproj.CopyComplete
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.exe
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.xml
+D:\system manager\System Manager\System Manager\obj\x64\Debug\System Manager.pdb
